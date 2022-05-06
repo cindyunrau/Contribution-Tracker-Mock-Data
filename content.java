@@ -1,5 +1,5 @@
-public class Cgbqyp {
+public class Cxbdxb {
     public static void main() {
-        System.out.println("hkcfk");
+        System.out.println("wepol");
     }
 }
