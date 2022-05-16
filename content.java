@@ -51,12 +51,7 @@ public class Cvvgbd {
         System.out.println("mfteb");
         System.out.println("unhos");
         System.out.println("vknyt");
-        System.out.println("nhact");
-        System.out.println("vxfly");
-        System.out.println("yadbn");
-        System.out.println("jidrl");
-        System.out.println("iewqr");
-        System.out.println("xkhtg");
-        System.out.println("jrtlg");
+        System.out.println("iokbk");
+        System.out.println("djkgc");
     }
 }
