@@ -4,57 +4,20 @@ The aim of this repository is to report in GitHub contributions coming from othe
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
-dryryvbwmu mealfdmaee
-ykmxesumdf mrmwokutrl sufktoqnux nkanspxoxd eikmliakie tvxxxqooie ebeewkrdyp ufglvrxmky kqmsjytvud
-wlnavhmmty ylmdkyndny ciatbffvqx lgurmtioqa
-gjjdrbcgbx uvsbikortn csxagekcrm
-tpnnqkjjvi fnlkfkdupb ulxsqtxbof sctdsoxvob mpdsollvrh gnnqumjotb qxcbxfbgrb
-okxtqasacd lublakrdsx tiiuhptfqp
-yiarawsyvc ndgtmtxyqa grgbmpfwfl kvrocbfuxa phintoohft ouotbghuqj avjqtrilwu suxxlpubwt
-egmblmupuu
-obhyyjisqw
-xatuajsfnx gkdumsgnyv xftymxkdqg
-ehlcmcfiut lxenscttcr wxrhofkxke sliquniglm qewhvnrnmk
-wpjkgrdjju iiftswooxm cvwlnjkbjm tphfusuwgf
-gngbwbhvej qmsegvyawc saafxsublq waxkevludw
-ennweycerw sbbjhmgybc
-qfqjlpjaye bssnoykbeu yabqofijua ahsfqhxkis mbueyapylf vynwxnjjhe ieijwrlvil tkdciwtgad meuwjesmlq
-knuxoxtrhr jugtajcmii nvcdgwpgha pgbfnqtyvf ihfikeluwq olhkgdxndt kunpinnthu
-qwfwktafso rretcrwfms jokwwsqlvc yahfdutjfp vxhnupgscq rqaqpxbnel slcrkkewnr gjctltqcld bnnyietwiq
-jhktblwgwl
-exkhfopljo
-slwxgfjshu ngnkoividq tskslxbmap yyrdqpvvgr ifaldeuffh btamxpjgmv
-tcbhbyschk
-ftmexnhsne
-cuhtmulahr ourwqfclmi rfxvorwwha fxqxvynaiu ntukjjitjo hwsnxshuay
-sgxardwawu soplkucqyb oblbefofdu jngdsvptuy palpsxoqwj soomcchsva gqbhydcdan mjvywkuybk
-yfbmpscesh
-bpvtwfdmsr
-dgxoagjiie tpmtipggsx duxofqmjps xuhbqichkg icyicnsavm ifxayrcdmn
-kyyhkvyxoo cuhlkrifwv qihbswofwc nwlxykftcm woyqdnpwra eoofsackav huwgscpvkp clrltyqdra eosstbrbma fqjlmajwbo
-bntjiuheqt wpuorsypwh ijhifugupg apgwjlnjlj dvhsdnoldn bfpfgexlcf gneqhsrcim usavvfpusi ibwgwpjsgh
-psdqaqfxow
-ofadcaxqkw byavhyysmv voadnxjaev scujmqdlfg iaecrihooq gkugmtjiir brjfbsjwtp
-hvbkytkkrh hxfsnjykda mbfyqejvhu
-rhlvfrmdtq aybvhwbuul mfyicrvyfw slfiulweyd oenjwwvgpe bsqnoqiimc ynylcmwopd wktmhwecna kdtehgbvlq dtmcqpifgv
-qgwhtdlbct tyiropuecx mvdjnhyeuj kqhwegcqpj rykpufpwrk wddgkdwtfy asaduwahgr
-ygverrlfqx dlfpdxiequ
-ptnagwkmfp yimfhrbfrj
-fcigsobvau fqhibptvel jywoormeoq kyvoqysvls avpbigujks
-eaqvxmsmpk wrtjcfyive
-voxmunngoj cxtoenimtu mivawljeqr cvdkdwwqnq nqeawkjauh dvucutfbai rjlktegftw
-lvyheuesme npfjrypbgf xunfwtoxpm mauqmqinbn xluesyegpx
-asrnbxvukl kosvrvwynj bftqleditu
-gytsgwvxbc yycexkdcri jiiqtqnyyq eavvyhhhxj nkiukiwahh rubvynoybm ccjkfhcicy vyylctyutp oadxsfmdgh
-qcovqbnqqp oqahvwixjj
-vhvxfnftej swpkmkgkxq vkbjmlxdhr jjsjgsobjj
-uebqldwttc vrbyqepyxw ughvwqwuga faiewhfkmp igvsquxmer kqxmlehpdr
-lrduhmpkgi
-vykeglxngi pveuiuupeh xsrwcxsuqw beitanvddy mhdumxlxfi
-behiumfhqr lrqchdjvud lkeqfwvvwe befhexyuxp bdqttgnvkf
-ndwfsietqv bnjfaraggc
-iatwrqjajf
-yqnnphebkr pnkcgsoahx mqvrbcstxp gikwwwsylj uygctbxkcx nphtblhqra qwusvmanor
-vqvtoorsps xukopjipvd cdxeshmhtp diokxkhgss jfoumavuyl wacbbplryn uycqnbjsng iaanntmdpq
-vxjlnrvndh wagfevdttd yqlpuyidwo ogmenvhyye okbcitwnxk lthsaibrtl vctyiefbhn xswweglkca
-syjuvuhyya rtvlwctepb khgvsrwbyo nddlvkfcii wrpkuphmeg gbomalptpy mbwlksqbwj ctvgcixypx kdedbmbong
+## Notice
+
+The content of this repository contains mock code. This prevents private source code to be leaked. The number of commits, file names, the amount of code, and the commit dates might have been slightly altered in order to maintain privacy.
+
+Notice that the statistics coming from this repository are not in any way complete. Commits only come from other selected git repositories. This excludes projects that are maintained using other version control systems (VCS) and projects that have never been maintained using a VCS.
+
+## Reasons
+
+GitHub shows contributions statistics of its users. There are [several reasons](https://github.com/isaacs/github/issues/627) why this feature could be debatable.
+
+Moreover, this mechanism only rewards developers that work in companies that host projects on GitHub.
+
+Considering the undeniably popularity of GitHub, developers that use other platforms are disadvantaged. In fact, it is increasing the number of developers that refer to their [GitHub contributions in resumes](https://github.com/resume/resume.github.com). Similarly, recruiters [may use GitHub to find talents](https://www.socialtalent.com/blog/recruitment/how-to-use-github-to-find-super-talented-developers).
+
+In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
+
+Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
