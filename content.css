@@ -341,12 +341,14 @@
   font-size: 40px;
   line-height: 42px;
   padding-bottom: 96px;
-  margin-left: 87px;
-  border-top-width: 17px;
-  margin-top: 99px;
-  padding-top: 64px;
-  line-height: 90px;
-  margin-left: 75px;
-  margin-left: 3px;
-  line-height: 15px;
+  border-bottom-width: 42px;
+  border-bottom-width: 84px;
+  border-left-width: 99px;
+  font-size: 41px;
+  margin-bottom: 25px;
+  padding-bottom: 18px;
+  margin-left: 44px;
+  padding-top: 47px;
+  padding-left: 75px;
+  margin-right: 62px;
 }
